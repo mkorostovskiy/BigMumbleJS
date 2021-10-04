@@ -1,0 +1,17 @@
+{
+  "name": "bigmumblejs",
+  "version": "1.0.0",
+  "main": "bigmumblejs.js",
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "mumble": "^0.3.21",
+    "puppeteer": "^10.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
